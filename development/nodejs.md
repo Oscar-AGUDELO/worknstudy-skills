@@ -6,10 +6,10 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Comment développer en utilisant un système de *livereloading* (`nodemon` par exemple) ❌ / ✔️
-- La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple) ❌ / ✔️
-- Le développement d'une API REST et GraphQL (avec les packages `express` et `graphql` par exemple) ❌ / ✔️
-- *Bonus : la manipulation des fichiers système avec `fs` et l'utilisation des streams en NodeJS* ❌ / ✔️
+- Comment développer en utilisant un système de *livereloading* (`nodemon` par exemple) ✔️
+- La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple) ✔️
+- Le développement d'une API REST et GraphQL (avec les packages `express` et `graphql` par exemple) ✔️
+- *Bonus : la manipulation des fichiers système avec `fs` et l'utilisation des streams en NodeJS* ❌
 
 ## 💻 J'utilise
 
@@ -23,38 +23,38 @@ const convertMDFileToHTML = (pathToMDfile) => /* ... path to HTML file */
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+- [lien](
+https://github.com/Oscar-AGUDELO/eventsMolina/tree/main/backend)
 
-Description :
+Description : Petit API de reservations
 
 ### Utilisation en production si applicable❌ / ✔️
 
-[lien du projet](...)
+- [lien](
+https://pentecostes.org/)
 
-Description :
+Description : Pentecostes.org c'est une app web qui sers à reserver sa/ses place/s pour un evenement.
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
-Description :
+Description : Lors de mon stage, nous avons utilisé node pour le back.
 
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
-- lien
-- description
+- [lien](https://expressjs.com/fr/api.html)
+- Doc Express
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ❌
 
-Description:
+Description:Typage
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
+-  EloquentJS  ✔️
 
 Résolution :
 
