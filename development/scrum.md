@@ -6,27 +6,32 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Différence entre Agile et SCRUM ❌ / ✔️
-- Expliquer les différents rituels et leur intérêt : ❌ / ✔️
+- Différence entre Agile et SCRUM ✔️
+- Expliquer les différents rituels et leur intérêt : ✔️
   - Daily Stand Up
   - Sprint planning
   - Retro
-  - Grooming
+  - Grooming ❌
   - Poker planning
-- Expliquer les différents roles ❌ / ✔️
+- Expliquer les différents roles ✔️
   - SCRUM master
   - Product Owner
-  - Stakeholder
-- Comment rédiger une User Story complète ? ❌ / ✔️
-- Qu'est-ce qu'un Product Backlog ? ❌ / ✔️
-- Qu'est ce qu'un Sprint ? Quel est l'intérêt ? ❌ / ✔️
-- A quoi sert le Burndown Chart ? ❌ / ✔️
-- Quelles sont les 2 unités de complexité ? ❌ / ✔️
-- Qu'est-ce qu'une Definition of done ? A quoi sert elle ? ❌ / ✔️
+  - Stakeholder ❌
+- Comment rédiger une User Story complète ? ❌
+- Qu'est-ce qu'un Product Backlog ? ❌
+- Qu'est ce qu'un Sprint ? Quel est l'intérêt ? ✔️
+- A quoi sert le Burndown Chart ? ❌
+- Quelles sont les 2 unités de complexité ? ❌
+- Qu'est-ce qu'une Definition of done ? A quoi sert elle ? ❌
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
+https://airtable.com/
+https://trello.com/
+https://monday.com/
+
+J'ai déjà utilisé ces plateformes dans des projets en SCRUM.
 
 ### Utilisation dans un projet ❌ / ✔️
 
@@ -55,14 +60,13 @@ Description :
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ❌
 
-Description:
+Description: Travail en équipe
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- EloquentJS ✔️
 - ...
 
 Résolution :
