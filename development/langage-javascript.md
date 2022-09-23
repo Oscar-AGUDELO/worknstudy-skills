@@ -6,18 +6,17 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage ❌
+- les normes `ecmascript`  ✔️
+- l'utilisation de l'`asynchrone`  ✔️
+- les spécifités du mot-clef `this` ❌
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté ✔️
 
-```javascript
-(e) => mc2;
-```
+//javascript
+//(e) => mc2;
 
 ### Utilisation dans un projet ❌ / ✔️
 
@@ -44,14 +43,13 @@ Description :
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ❌
 
 Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- EloquentJS ✔️
 - ...
 
 Résolution :
