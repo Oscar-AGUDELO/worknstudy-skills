@@ -6,9 +6,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la création d'une image docker ❌ / ✔️
-- l'éxécution d'un container ❌ / ✔️
-- l'orchestration de containers avec docker-compose ❌ / ✔️
+- la création d'une image docker ✔️
+- l'éxécution d'un container ✔️
+- l'orchestration de containers avec docker-compose ✔️
 
 
 ## 💻 J'utilise
@@ -17,9 +17,9 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+https://github.com/Oscar-AGUDELO/wcs-1022-reactTS-apolloClient-Docker
 
-Description :
+Description : projet wcs
 
 ### Utilisation en production si applicable❌ / ✔️
 
@@ -42,12 +42,11 @@ Description :
 
 ### Point de blocage ❌ / ✔️
 
-Description:
+Description: push une image
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- lire eloquantJS
 - ...
 
 Résolution :
