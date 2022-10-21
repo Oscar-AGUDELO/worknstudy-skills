@@ -6,10 +6,10 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
+- les verbes HTTP ✔️
 - les statuts HTTP ❌ / ✔️
 - les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
+- CORS ✔️
 - la nomenclature recommandée pour les routes ❌ / ✔️
 
 ## 💻 J'utilise
@@ -47,8 +47,7 @@ Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- lire eloquantJS
 - ...
 
 Résolution :
