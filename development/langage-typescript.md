@@ -33,13 +33,8 @@ Description : Alternance
 
 ## 🌐 J'utilise des ressources
 
-[lien](...)
-Description :
-
 ### Titre
-
-- [https://ma-palette.fr](https://plateforme.ma-palette.fr/login)
-- Matériauthèque online.
+- Description :
 
 ## 🚧 Je franchis les obstacles
 
