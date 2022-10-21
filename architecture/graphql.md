@@ -6,12 +6,12 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la différence entre REST et GraphQL ❌ / ✔️
-- les besoins auxquels répond GraphQL ❌ / ✔️
+- la différence entre REST et GraphQL ✔️
+- les besoins auxquels répond GraphQL ❌
 - la définition d'un schéma
-- Query ❌ / ✔️
-- Mutation ❌ / ✔️
-- Subscription ❌ / ✔️
+- Query ✔️
+- Mutation ✔️
+- Subscription ❌
 
 ## 💻 J'utilise
 
@@ -19,7 +19,7 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+https://github.com/Oscar-AGUDELO/wcs-1022-apolloServer-TypeORM-TypeGraphQL
 
 Description :
 
@@ -44,12 +44,11 @@ Description :
 
 ### Point de blocage ❌ / ✔️
 
-Description:
+Description: Utilisation de typeORL+typeGraphQL et sa gestion des erreurs
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- Lire eloquantJS
 - ...
 
 Résolution :
