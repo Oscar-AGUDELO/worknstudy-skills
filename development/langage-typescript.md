@@ -23,15 +23,18 @@ Description :
 
 ### Utilisation en production si applicable❌ / ✔️
 
-[lien du projet](...)
 
-Description :
+- [https://ma-palette.fr](https://plateforme.ma-palette.fr/login)
+- Matériauthèque online.
 
 ### Utilisation en environement professionnel ❌ / ✔️
 
 Description : Alternance
 
 ## 🌐 J'utilise des ressources
+
+[lien](...)
+Description :
 
 ### Titre
 
