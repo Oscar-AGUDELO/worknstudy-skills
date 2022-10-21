@@ -6,9 +6,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
-- les types de bases ❌ / ✔️
-- comment et pourquoi étendre une interface ❌ / ✔️
+- l'intéret de TypeScript dans l'IDE ✔️
+- les types de bases ✔️
+- comment et pourquoi étendre une interface ✔️
 - les classes et les decorators ❌ / ✔️
 
 ## 💻 J'utilise
@@ -29,25 +29,25 @@ Description :
 
 ### Utilisation en environement professionnel ❌ / ✔️
 
-Description :
+Description : Alternance
 
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
-- lien
-- description
+- [https://ma-palette.fr](https://plateforme.ma-palette.fr/login)
+- Matériauthèque online.
 
 ## 🚧 Je franchis les obstacles
 
 ### Point de blocage ❌ / ✔️
 
 Description:
+Quête 1 TS
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- Lire éloquantJS
 - ...
 
 Résolution :
